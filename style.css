@@ -66,4 +66,13 @@
   line-height: 1.2;
   font-weight: 500;
   color: brown;
+}
+.container .next {
+  padding: 10px;
+  font-family: "Roboto", sans-serif;
+  font-size: 24px;
+  line-height: 1.2;
+  font-weight: 500;
+  color: brown;
+  border-radius: 10px;
 }/*# sourceMappingURL=style.css.map */
